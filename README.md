@@ -1,0 +1,2 @@
+# fk
+fast sudo
